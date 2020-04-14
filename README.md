@@ -16,5 +16,4 @@ Project By Nattawut Leeharattanarak Student ID : 6130300212
 -
 
 #Installation 
--
--
+- Compile & Run File name "MainGame.java"
