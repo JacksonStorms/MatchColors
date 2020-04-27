@@ -9,4 +9,4 @@ This game is a defense. In order not to make the monsters of various colors Back
 - This game has a cute little animation.
 - There is a menu to help you understand the game too.
 ## Installation 
-Compile & Run File name "MainGame.java".
+Compile & Run File name "Lancher1.java".
